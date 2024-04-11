@@ -1,6 +1,6 @@
 ---
 title: checkme.email Documentation
-description: checkme.email Documentation
+description: checkme is an open-source project designed to simplify the setup of an SMTP server with built-in email address validation.
 images:
 - images/pexels-photo-196666.jpeg
 ---
