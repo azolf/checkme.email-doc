@@ -26,7 +26,7 @@ enableMissingTranslationPlaceholders = false
     # github_doc_repository_branch = "master"
 
     # Analytic section
-    google_analytics_id = "" # Your Google Analytics tracking id
+    google_analytics_id = "G-7TP7R1F777" # Your Google Analytics tracking id
     tag_manager_container_id = "" # Your Google Tag Manager container id
     google_site_verification = "" # Your Google Site Verification for Search Console
 
